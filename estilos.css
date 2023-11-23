@@ -130,11 +130,3 @@ main{
         background-color: aquamarine;
     }
 }
-
-    <canvas id="my-canvas"></canvas>
-
-    <script src="confetti-js-master.zip"></script>
-
-    var confettiSettings = { target: 'my-canvas' };
-    var confetti = new ConfettiGenerator(confettiSettings);
-    confetti.render();
